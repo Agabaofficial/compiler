@@ -18,7 +18,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Supported Languages & Tools](#supported-languages--tools)
@@ -33,19 +33,19 @@
 
 CompilerHub is an **advanced 3D visualization platform** for understanding compiler internals across multiple programming languages. Whether you're a student learning compiler design, a developer optimizing code, or a researcher exploring language implementation, CompilerHub provides unparalleled insights into how code is compiled and executed.
 
-| 📊 Stat | Value |
+|  Stat | Value |
 |---|---|
-| 🌐 Languages & Tools | 9+ |
-| 🔭 Visualization Modes | 20+ |
-| 👥 Active Users | 1,200+ |
+|  Languages & Tools | 9+ |
+|  Visualization Modes | 20+ |
+|  Active Users | 1,200+ |
 
-> 🔒 **Unlock full access:** Some advanced languages and the interactive playground require you to log in or create an account. Login also enables saving visualizations and personalized learning paths.
+>  **Unlock full access:** Some advanced languages and the interactive playground require you to log in or create an account. Login also enables saving visualizations and personalized learning paths.
 
 ---
 
 ## Supported Languages & Tools
 
-### ☕ Java
+###  Java
 Full JVM pipeline visualization including bytecode generation, class loading, garbage collection, and JIT compilation.
 
 ### C
@@ -81,12 +81,12 @@ Interactive HTML/CSS/JS environment — *This is not a compiler visualizer.* Exp
 
 | Feature | Description |
 |---|---|
-| 🌐 **Interactive 3D** | Rotate, zoom, and explore compiler internals in three dimensions with real-time WebGL rendering. |
-| 🔄 **Pipeline View** | Step through compilation stages with detailed explanations. Watch data flow between lexical, syntax, and semantic analysis. |
-| 🌳 **AST Explorer** | Interactive Abstract Syntax Trees with node highlighting, zoom, and expand/collapse. |
-| 🗄️ **Memory Models** | JVM heap, C stack frames, Swift ARC, and Brainfuck tape visualization. |
-| 📤 **Export System** | Download generated ASTs, intermediate code, and 3D visualizations for offline study. |
-| 🎓 **Educational** | Perfect for computer science education. Used by universities worldwide for compiler design courses. |
+|  **Interactive 3D** | Rotate, zoom, and explore compiler internals in three dimensions with real-time WebGL rendering. |
+|  **Pipeline View** | Step through compilation stages with detailed explanations. Watch data flow between lexical, syntax, and semantic analysis. |
+|  **AST Explorer** | Interactive Abstract Syntax Trees with node highlighting, zoom, and expand/collapse. |
+|  **Memory Models** | JVM heap, C stack frames, Swift ARC, and Brainfuck tape visualization. |
+|  **Export System** | Download generated ASTs, intermediate code, and 3D visualizations for offline study. |
+|  **Educational** | Perfect for computer science education. Used by universities worldwide for compiler design courses. |
 
 ---
 
