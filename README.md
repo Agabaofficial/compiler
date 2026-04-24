@@ -48,31 +48,31 @@ CompilerHub is an **advanced 3D visualization platform** for understanding compi
 ### ☕ Java
 Full JVM pipeline visualization including bytecode generation, class loading, garbage collection, and JIT compilation.
 
-### 🖥️ C
+### C
 Direct compilation to assembly and machine code. Memory layout visualization, pointer operations, and preprocessor expansion.
 
-### 🍎 Swift
+### Swift
 Swift Intermediate Language (SIL) visualization, ARC optimization, protocol witness tables, and generic specialization.
 
-### 🧠 Brainfuck
+### Brainfuck
 Minimalist language with tape memory visualization. Watch pointer movements, cell operations, and loop execution in real-time.
 
-### 🐹 Go
+### Go
 Fast compilation pipeline, goroutine scheduling, channel operations, and interface tables. Visualize Go's unique concurrency model.
 
-### 🐍 Python
+### Python
 Full CPython bytecode compilation pipeline, from parsing to code object generation. Visualize abstract syntax tree, symbol tables, and virtual machine execution.
 
-### 🌐 JavaScript
+### JavaScript
 Modern JIT compilation pipeline (Ignition, Sparkplug, Maglev, TurboFan). Visualize bytecode, optimization feedback, and inline caching.
 
-### 🐘 PHP
+### PHP
 Zend Engine compilation: AST to opcodes, opcache integration, and runtime execution. Explore oparray structure and internal function calls.
 
-### 📊 R
+### R
 R compiler and bytecode visualization. Explore S3/S4 object systems, lazy evaluation, and JIT-compiled bytecode loops.
 
-### 🎮 Playground *(Add-On)*
+### Playground *(Add-On)*
 Interactive HTML/CSS/JS environment — *This is not a compiler visualizer.* Experiment with front-end code, see a live preview, and test snippets. Great for learning web technologies.
 
 ---
@@ -96,7 +96,7 @@ Interactive HTML/CSS/JS environment — *This is not a compiler visualizer.* Exp
 2. **Choose a language** — Select from Java, C, Swift, Brainfuck, Go, Python, JavaScript, PHP, or R.
 3. **Enter your code** — Paste or write source code in the editor.
 4. **Explore the visualization** — Step through the compilation pipeline, inspect the AST, memory models, and more.
-5. **Login for full access** — [Register](https://compilerhub.example.com/register) or [Login](https://compilerhub.example.com/login) to unlock advanced languages, save visualizations, and access personalized learning paths.
+5. **Login for full access** — [Register](https://compiler.totalh.net/register) or [Login](https://compiler.totalh.net/login) to unlock advanced languages, save visualizations, and access personalized learning paths.
 
 ---
 
